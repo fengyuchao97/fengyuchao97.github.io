@@ -53,7 +53,6 @@ Jianwei Zheng, <b>Yuchao Feng</b>, Cong Bai\*, Jinglin Zhang  <br>
 - 3D octave and 2D vanilla mixed convolutional neural network for hyperspectral image classification with limited samples<br>
 <b>Yuchao Feng</b>, Jianwei Zheng\*, Mengjie Qin, Cong Bai, Jinglin Zhang  <br>
 *Remote Sensing*, 2021. <br> [[Pdf](https://www.mdpi.com/2072-4292/13/21/4407)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
-
 - CA-GAN: Object Placement via Coalescing Attention based Generative Adversarial Network<br>
 Yibin Wang, <b>Yuchao Feng</b>, Jie Wu, Honghui Xu, Jianwei Zheng\* <br>
 *IEEE International Conference on Multimedia and Expo*, (<b>ICME</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219885/)]
