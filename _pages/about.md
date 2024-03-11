@@ -17,42 +17,43 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently pursuing the Ph.D. degree (supervised by Prof. [Jianwei Zheng](https://github.com/ZhengJianwei2/)) with the College of Computer Science and Technology, [Zhejiang University of Technology], Hangzhou, China.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My research interest includes change detction, Hyperspectral analysis and 3D reconstruction. 
 
-# 📝 Publications 
+📧 E-mail: <fyc@zjut.com> &emsp; [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=uB3Yhk0AAAAJ)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 🔔 News
+- *2024.02*: &nbsp;One paper is accepted by <b>TAI</b>.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 📄 Publications 
+<b>Note</b>: \* indicates the corresponding author. 
+- ICIF-Net: Intra-scale Cross-interaction and Inter-scale Feature Fusion Network For Bi-temporal Remote Sensing Images Change Detection<br>
+<b>Yuchao Feng</b>, Honghui Xu, Jiawei Jiang, Hao Liu, Jianwei Zheng\* <br>
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9759285/)][[Code](https://github.com/ZhengJianwei2/HFTNN)]
+- Hyperspectral image classification using mixed convolutions and covariance pooling<br>
+Jianwei Zheng, <b>Yuchao Feng</b>, Cong Bai\*, Jinglin Zhang  <br>
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2020. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9103280/)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2024.06*: &nbsp; Ph.D., Zhejiang University of Technology, Hangzhou
+- *2015.09 - 2019.06*: &nbsp; B.S., Wenzhou University, Wenzhou
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🏆 Awards and Honors
+- National Scholarship for Ph. D. student (博士研究生国家奖学金), ZJUT, 2023, 2022
+- National Scholarship for B.D. student (硕士研究生国家奖学金), ZJUT, 2020
+- One of the top ten academic stars (十佳学术之星), ZJUT, 2023
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
+# 🌐 Academic Activities
+
+## Reviewer
+- IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+- ISPRS Journal of Photogrammetry and Remote Sensing
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- Remote sensing
+- ACMMM 2024
+- ICME 2023,2024
