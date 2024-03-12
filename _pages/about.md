@@ -40,7 +40,7 @@ Jiawei Jiang, <b>Yuchao Feng</b> (<b>Common First</b>), Jiacheng Chen, Dongyan G
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10034787/)][[Code](https://github.com/ZhengJianwei2/DMINet)]
 - ICIF-Net: Intra-scale Cross-interaction and Inter-scale Feature Fusion Network For Bi-temporal Remote Sensing Images Change Detection<br>
 <b>Yuchao Feng</b>, Honghui Xu, Jiawei Jiang, Hao Liu, Jianwei Zheng\* <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9759285/)][[Code](https://github.com/ZhengJianwei2/ICIF-Net)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited</b>), 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9759285/)][[Code](https://github.com/ZhengJianwei2/ICIF-Net)]
 - Compact Intertemporal Coupling Network for Remote Sensing Change Detection<br>
 <b>Yuchao Feng</b>, Honghui Xu, Jiawei Jiang, Jianwei Zheng\* <br>
 *IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219785/)][[Code](https://github.com/ZhengJianwei2/CICNet)]
@@ -49,7 +49,7 @@ Jiawei Jiang, <b>Yuchao Feng</b> (<b>Common First</b>), Jiacheng Chen, Dongyan G
 *IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10096120/)][[Code](https://github.com/ZhengJianwei2/CTFINet)]
 - Hyperspectral image classification using mixed convolutions and covariance pooling<br>
 Jianwei Zheng, <b>Yuchao Feng</b>, Cong Bai\*, Jinglin Zhang  <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2020. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9103280/)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited</b>), 2020. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9103280/)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
 - 3D octave and 2D vanilla mixed convolutional neural network for hyperspectral image classification with limited samples<br>
 <b>Yuchao Feng</b>, Jianwei Zheng\*, Mengjie Qin, Cong Bai, Jinglin Zhang  <br>
 *Remote Sensing*, 2021. <br> [[Pdf](https://www.mdpi.com/2072-4292/13/21/4407)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
