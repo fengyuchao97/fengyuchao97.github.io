@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuchao Feng | ZJUT"
+title                    : "Yuchao Feng | Westlake"
 description              : "Postdocs at Westlake University. Focusing on compressive imaging, change detection, Hyperspectral analysis and 3D reconstruction."
 repository               : "fengyuchao97/fengyuchao97.github.io"
 google_scholar_stats_use_cdn : true
