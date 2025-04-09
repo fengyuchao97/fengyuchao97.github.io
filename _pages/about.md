@@ -52,14 +52,14 @@ Jiawei Jiang, <b>Yuchao Feng</b> (<b>Common First</b>), Jiacheng Chen, Dongyan G
 - Building change detection using cross-temporal feature interaction network<br>
 <b>Yuchao Feng</b>, Jiawei Jiang, Honghui Xu, Jianwei Zheng\* <br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. (CCF B) [[Pdf](https://ieeexplore.ieee.org/abstract/document/10096120/)][[Code](https://github.com/ZhengJianwei2/CTFINet)]
-- Hyperspectral image classification using mixed convolutions and covariance pooling<br>
-Jianwei Zheng, <b>Yuchao Feng</b>, Cong Bai\*, Jinglin Zhang  <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited(1%)</b>), 2020. (IF 7.5, CCF B) [[Pdf](https://ieeexplore.ieee.org/abstract/document/9103280/)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
-
-# Others
 - 3D octave and 2D vanilla mixed convolutional neural network for hyperspectral image classification with limited samples<br>
 <b>Yuchao Feng</b>, Jianwei Zheng\*, Mengjie Qin, Cong Bai, Jinglin Zhang  <br>
 *Remote Sensing*, 2021. [[Pdf](https://www.mdpi.com/2072-4292/13/21/4407)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
+
+# Others
+- Hyperspectral image classification using mixed convolutions and covariance pooling<br>
+Jianwei Zheng, <b>Yuchao Feng</b>, Cong Bai\*, Jinglin Zhang  <br>
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited(1%)</b>), 2020. (IF 7.5, CCF B) [[Pdf](https://ieeexplore.ieee.org/abstract/document/9103280/)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
 - SyFormer: Structure-Guided Synergism Transformer for Large-Portion Image Inpainting<br>
 Jie Wu, <b>Yuchao Feng</b>, Honghui Xu, Chuanmeng Zhu, Jianwei Zheng\*. <br>
 *AAAI Conference on Artificial Intelligence (<b>AAAI</b>)*, 2024. (CCF A) [[Pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28417/)][[Code](https://github.com/ZhengJianwei2/SyFormer)]
