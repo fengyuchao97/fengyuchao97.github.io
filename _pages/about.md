@@ -31,34 +31,34 @@ My research interest includes Compressive Sensing, Change Detction, and Hyperspe
 <b>Note</b>: \* indicates the corresponding author. 
 - A Lightweight Collective-attention Network for Change Detection<br>
 <b>Yuchao Feng</b>, Yanyan Shao, Honghui Xu, Jinshan Xu, Jianwei Zheng\* <br>
-*Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023. <br> [[Pdf](https://dl.acm.org/doi/abs/10.1145/3581783.3613773/)]
+*Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023. (CCF A) <br> [[Pdf](https://dl.acm.org/doi/abs/10.1145/3581783.3613773/)]
 - Latent-space unfolding for MRI reconstruction<br>
 Jiawei Jiang, <b>Yuchao Feng</b> (<b>Common First</b>), Jiacheng Chen, Dongyan Guo, Jianwei Zheng\* <br>
-*Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023. <br> [[Pdf](https://dl.acm.org/doi/abs/10.1145/3581783.3613771/)]
+*Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023. (CCF A) <br> [[Pdf](https://dl.acm.org/doi/abs/10.1145/3581783.3613771/)]
 - Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network<br>
 <b>Yuchao Feng</b>, Jiawei Jiang, Honghui Xu, Jianwei Zheng\* <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Hot Paper(1‰), Highly cited(1%)</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10034787/)][[Code](https://github.com/ZhengJianwei2/DMINet)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Hot Paper(1‰), Highly cited(1%)</b>), 2023. (IF 7.5, CCF B) <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10034787/)][[Code](https://github.com/ZhengJianwei2/DMINet)]
 - ICIF-Net: Intra-scale Cross-interaction and Inter-scale Feature Fusion Network For Bi-temporal Remote Sensing Images Change Detection<br>
 <b>Yuchao Feng</b>, Honghui Xu, Jiawei Jiang, Hao Liu, Jianwei Zheng\* <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited(1%)</b>), 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9759285/)][[Code](https://github.com/ZhengJianwei2/ICIF-Net)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited(1%)</b>), 2022. (IF 7.5, CCF B) <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9759285/)][[Code](https://github.com/ZhengJianwei2/ICIF-Net)]
 - Axial-shunted Spatial-temporal Conversation for Change Detection<br>
 <b>Yuchao Feng</b>, Mengjie Qin, Jiawei Jiang, Jintao Lai, Jianwei Zheng\* <br>
-*ACM Transactions on Multimedia Computing Communications and Applications* (<b>TOMM</b>), 2025. (IF:5.2,CCF B) <br> [[Pdf](https://dl.acm.org/doi/10.1145/3721135/)][[Code](https://github.com/fengyuchao97/ASCNet)]
+*ACM Transactions on Multimedia Computing Communications and Applications* (<b>TOMM</b>), 2025. (IF:5.2, CCF B) <br> [[Pdf](https://dl.acm.org/doi/10.1145/3721135/)][[Code](https://github.com/fengyuchao97/ASCNet)]
 - Compact Intertemporal Coupling Network for Remote Sensing Change Detection<br>
 <b>Yuchao Feng</b>, Honghui Xu, Jiawei Jiang, Jianwei Zheng\* <br>
-*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219785/)][[Code](https://github.com/ZhengJianwei2/CICNet)]
+*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023. (CCF B) <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219785/)][[Code](https://github.com/ZhengJianwei2/CICNet)]
 - Building change detection using cross-temporal feature interaction network<br>
 <b>Yuchao Feng</b>, Jiawei Jiang, Honghui Xu, Jianwei Zheng\* <br>
-*IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10096120/)][[Code](https://github.com/ZhengJianwei2/CTFINet)]
+*IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. (CCF B) <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10096120/)][[Code](https://github.com/ZhengJianwei2/CTFINet)]
 - Hyperspectral image classification using mixed convolutions and covariance pooling<br>
 Jianwei Zheng, <b>Yuchao Feng</b>, Cong Bai\*, Jinglin Zhang  <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited(1%)</b>), 2020. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9103280/)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited(1%)</b>), 2020. (IF 7.5, CCF B) <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9103280/)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
 - 3D octave and 2D vanilla mixed convolutional neural network for hyperspectral image classification with limited samples<br>
 <b>Yuchao Feng</b>, Jianwei Zheng\*, Mengjie Qin, Cong Bai, Jinglin Zhang  <br>
 *Remote Sensing*, 2021. <br> [[Pdf](https://www.mdpi.com/2072-4292/13/21/4407)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
 - CA-GAN: Object Placement via Coalescing Attention based Generative Adversarial Network<br>
 Yibin Wang, <b>Yuchao Feng</b>, Jie Wu, Honghui Xu, Jianwei Zheng\* <br>
-*IEEE International Conference on Multimedia and Expo*, (<b>ICME</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219885/)]
+*IEEE International Conference on Multimedia and Expo*, (<b>ICME</b>), 2023. (CCF B) <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219885/)]
 - Hyperspectral and multispectral data fusion via joint local-nonlocal modeling and truncation operator<br>
 Jiawei Jiang, <b>Yuchao Feng</b>, Honghui Xu, Guojiang Shen, Jianwei Zheng\* <br>
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9829822/)]
