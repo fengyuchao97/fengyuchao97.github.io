@@ -112,6 +112,7 @@ Jianwei Zheng, Pengfei Li, Honghui Xu, Jiawei Jiang, <b>Yuchao Feng</b>, Zhi Liu
 - *2015.09 - 2019.06*: &nbsp; B.S., Wenzhou University, Wenzhou
 
 # 🏆 Awards and Honors
+- 第十一届中国光学工程学会科学技术奖-技术发明奖二等奖-机载单曝光高光谱相机 (6/6)
 - National Scholarship for Ph. D. student (博士研究生国家奖学金), ZJUT, 2023, 2022
 - National Scholarship for B.D. student (硕士研究生国家奖学金), ZJUT, 2020
 - One of the top ten academic stars (十佳学术之星), ZJUT, 2023
@@ -121,9 +122,8 @@ Jianwei Zheng, Pengfei Li, Honghui Xu, Jiawei Jiang, <b>Yuchao Feng</b>, Zhi Liu
 # 🌐 Academic Activities
 
 ## Reviewer
-- IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Geoscience and Remote Sensing
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-- Remote sensing
-- ACMMM 2024
-- ICME 2023,2024
+- CVPR 2026, AAAI 2025, ACMMM 2024-2025, ICME 2023-2025
