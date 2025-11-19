@@ -34,7 +34,7 @@ My research interest includes Compressive Sensing, Change Detction, and Hyperspe
 # First Auther
 - Rethinking Semantic-level Building Change Detection: Ensemble Learning and Dynamic Interaction<br>
 <b>Yuchao Feng</b>, Mengjie Qin, Yuxiang Yang, Junhua Gao, Xin Yuan\* <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>ACMMM</b>), 2025. (IF 8.6, SCI 1 TOP)
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2025. (IF 8.6, SCI 1 TOP)
 - 2D-Slice and 3D-Cube Mamba Network for Snapshot Spectral Compressive Imaging<br>
 <b>Yuchao Feng</b>, Mengjie Qin, Zongliang Wu, Yuxiang Yang, Junhua Gao, Xin Yuan\* <br>
 *IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2025. (IF 11.1, SCI 1 TOP)
