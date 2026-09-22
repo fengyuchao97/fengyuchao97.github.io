@@ -52,7 +52,7 @@ Jiawei Jiang, <b>Yuchao Feng</b> (<b>Common First</b>), Jiacheng Chen, Dongyan G
 *Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023. (CCF A) [[Pdf](https://dl.acm.org/doi/abs/10.1145/3581783.3613771/)]
 - Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network<br>
 <b>Yuchao Feng</b>, Jiawei Jiang, Honghui Xu, Jianwei Zheng\* <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Hot Paper(1‰), Highly cited(1%)</b>), 2023. (IF 8.6, SCI 1 TOP) [[Pdf](https://ieeexplore.ieee.org/abstract/document/10034787/)][[Code](https://github.com/ZhengJianwei2/DMINet)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Hot Paper(1‰), Highly cited(1%)</b>), 2023. (SCI 1 TOP) [[Pdf](https://ieeexplore.ieee.org/abstract/document/10034787/)][[Code](https://github.com/ZhengJianwei2/DMINet)]
 - ICIF-Net: Intra-scale Cross-interaction and Inter-scale Feature Fusion Network For Bi-temporal Remote Sensing Images Change Detection<br>
 <b>Yuchao Feng</b>, Honghui Xu, Jiawei Jiang, Hao Liu, Jianwei Zheng\* <br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited(1%)</b>), 2022. (SCI 1 TOP) [[Pdf](https://ieeexplore.ieee.org/abstract/document/9759285/)][[Code](https://github.com/ZhengJianwei2/ICIF-Net)]
