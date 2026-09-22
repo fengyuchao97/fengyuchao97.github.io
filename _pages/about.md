@@ -74,11 +74,11 @@ Jiawei Jiang, <b>Yuchao Feng</b> (<b>Common First</b>), Jiacheng Chen, Dongyan G
 J Jiang, W Li, J Pei, J Zhu, H Xu, <b>Y Feng*</b>, J Zheng* <br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2026. (SCI 1 TOP)
 - Observation-guided diffusion for pan-sharpening with step-wise jacobian<br>
-J Jiang, K Zhang, H Xu, J Zhong, <b>Y Feng*</b>, J Zheng*
+J Jiang, K Zhang, H Xu, J Zhong, <b>Y Feng*</b>, J Zheng* <br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2026. (SCI 1 TOP)
 - Hyperspectral image classification using mixed convolutions and covariance pooling<br>
 Jianwei Zheng, <b>Yuchao Feng</b>, Cong Bai\*, Jinglin Zhang  <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited(1%)</b>), 2020. (IF 8.6, SCI 1 TOP) [[Pdf](https://ieeexplore.ieee.org/abstract/document/9103280/)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS, Highly cited(1%)</b>), 2020. (SCI 1 TOP) [[Pdf](https://ieeexplore.ieee.org/abstract/document/9103280/)][[Code](https://github.com/ZhengJianwei2/MCNN-based_HSI_Classification)]
 - Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging<br>
 Mengjie Qin, <b>Yuchao Feng</b>, Zongliang Wu, Yulun Zhang, Xin Yuan\*. <br>
 *AAAI Conference on Artificial Intelligence (<b>AAAI</b>)*, 2025. (CCF A) [[Pdf](http://arxiv.org/pdf/2501.01262v1)][[Code](https://github.com/Mengjie-s/MiJUN)]
@@ -93,9 +93,7 @@ Jiawei Jiang, <b>Yuchao Feng</b>, Honghui Xu, Guojiang Shen, Jianwei Zheng\* <br
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9829822/)]
 - Contrastive Attention-guided Multi-level Feature Registration for Reference-based Super-resolution<br>
 Jianwei Zheng, Yu Liu, <b>Yuchao Feng</b>, Honghui Xu, Meiyu Zhang\* <br>
-*ACM Transactions on Multimedia Computing, Communications and Applications*, 2023. (CCF B) [[Pdf](https://dl.acm.org/doi/abs/10.1145/3616495
-        
-        )]
+*ACM Transactions on Multimedia Computing, Communications and Applications*, 2023. (CCF B) [[Pdf](https://dl.acm.org/doi/abs/10.1145/3616495)]
 - Low-Dose CT Reconstruction Via Optimization-Inspired GAN<br>
 Jiawei Jiang, <b>Yuchao Feng</b>, Honghui Xu, Jianwei Zheng\* <br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. (CCF B) [[Pdf](https://ieeexplore.ieee.org/abstract/document/10095096/)]
@@ -110,14 +108,10 @@ Jianwei Zheng, Mengjie Qin, Honghui Xu, <b>Yuchao Feng</b>, Peijun Chen\*, Sheng
 *Engineering Applications of Artificial Intelligence*, 2021. [[Pdf](https://www.sciencedirect.com/science/article/pii/S0952197621003201)]
 - Tensor completion via hybrid shallow-and-deep priors<br>
 Honghui Xu, Jiawei Jiang, <b>Yuchao Feng</b>, Yiting Jin, Jianwei Zheng <br>
-*Applied Intelligence*, 2023. [[Pdf](https://link.springer.com/article/10.1007/s10489-022-04331-4/
-        
-        )]
+*Applied Intelligence*, 2023. [[Pdf](https://link.springer.com/article/10.1007/s10489-022-04331-4/)]
 - Boosting Feature-Aware Network for Salient Object Detection<br>
 Jianwei Zheng, Yubin Gu, <b>Yuchao Feng</b>, Jinshan Xu, Meiyu Zhang\* <br>
-*31st International Conference on Artificial Neural Networks*, 2022. [[Pdf](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_2/
-        
-        )]
+*31st International Conference on Artificial Neural Networks*, 2022. [[Pdf](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_2/)]
 - GA-HQS: MRI reconstruction via a generically accelerated unfolding approach<br>
 Jiawei Jiang, Jiacheng Chen, Honghui Xu, <b>Yuchao Feng</b>, Jianwei Zheng\* <br>
 *IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219777/)]
